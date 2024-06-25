@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ganesh-mohan
-- 👀 I’m interested in Business Analytics, Backtesting Trading strategies
+- 👀 I’m interested in Data Science in Ecommerce, Business Analytics, Backtesting Trading strategies
 - 🌱 I’m currently learning Python, CS50 course
 - 💞️ I’m looking to collaborate on Backtest Trade strategies
 - 📫 How to reach me - ganeshmohan.m@gmail.com
